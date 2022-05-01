@@ -1,2 +1,2 @@
-# Mobile-automation-and-cloud-testing
-# Mobile-automation-and-cloud-testing
+Selenium package 
+Selenium IDE : basics example.
